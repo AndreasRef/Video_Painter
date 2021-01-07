@@ -1,5 +1,5 @@
 # Video_Painter
-A Processing sketch for painting with video
+A Processing sketch for painting with video (for openFrameworks version see subfolder called videoPainterShader)
 
 ![Image of Video_Painter](http://ciid.dk/root_ciidwww/wp-content/uploads/2015/07/VideoPainterGIF.gif)
 
